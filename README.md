@@ -1,6 +1,6 @@
 # CV
 
-#🌟 Antonella Fontanetto
+🌟 #Antonella Fontanetto
 Data Scientist | Consultora en Machine Learning y Deep Learning
 📍 Argentina | 📧 antonella.fontanetto@email.com | 🌐 linkedin.com/in/antonellafontanetto
 💻 github.com/antonellafontanetto
