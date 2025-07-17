@@ -1,19 +1,19 @@
 # CV
 
-🌟 Antonella Fontanetto
+🌟 **Antonella Fontanetto**
 
 Data Scientist | Consultora en Machine Learning y Deep Learning
 
-📍 Argentina | 📧 antonella.fontanetto@email.com | 🌐 linkedin.com/in/antonellafontanetto
+📍 Argentina | 📧 fontanettoantonella@gmail.com | 🌐 linkedin.com/in/antonellafontanetto
 
 💻 github.com/antonellafontanetto
 
-#🧠 Sobre mí
+🧠 **Sobre mí**
 
 Soy Data Scientist con formación en análisis predictivo, Machine Learning y Deep Learning, orientada al sector energético. Tengo experiencia desarrollando modelos supervisados, no supervisados y redes neuronales aplicadas a la producción de petróleo, gas y operaciones industriales. Me apasiona convertir datos complejos en insights estratégicos mediante visualizaciones, storytelling y herramientas como Python, Power BI y SQL.
 Actualmente, estoy lanzando mi consultora independiente para ofrecer soluciones de IA aplicadas a la industria.
 
-#🛠️ Habilidades Técnicas
+🛠️ **Habilidades Técnicas**
 
 Lenguajes: Python, SQL, DAX, Markdown
 
@@ -31,7 +31,7 @@ Bases de Datos: PostgreSQL, MySQL
 
 Herramientas: Git, Excel Avanzado, Canva, SAP 
 
-#📊 Proyectos Destacados
+📊 **Proyectos Destacados**
 
 🔹 Plan 4x4 YPF – Predicción de Producción Energética
 
@@ -57,7 +57,7 @@ Flujos automatizados para recolección, transformación y envío de datos energ�
 
 Automatización de informes en Google Sheets y notificaciones por Telegram.
 
-#📚 Formación
+📚 **Formación**
 
 Programa de Data Science Aplicada – Fundación YPF
 
@@ -73,7 +73,7 @@ Licenciatura
 
 Licenciada en Economía - Universidad de Buenos Aires
 
-#💼 Experiencia Profesional
+💼 **Experiencia Profesional**
 
 Analista de Datos – NRG Argentina (Planta de Arena)
 📅 [2024] – [2025]
@@ -83,7 +83,7 @@ Análisis de KPIs: consumo de arena, tiempos de fractura, productividad por jorn
 Automatización de reportes y visualización en Power BI.
 
 
-#📢 Servicios como Consultora
+📢 **Servicios como Consultora**
 
 ✅ Predicción de producción energética (petróleo, gas, exportaciones)
 
@@ -93,7 +93,7 @@ Automatización de reportes y visualización en Power BI.
 
 ✅ Proyectos personalizados para el sector industrial y energético
 
-#📬 Contacto
+📬 **Contacto**
 
 📩 fontanettoantonella@gmail.com
 
